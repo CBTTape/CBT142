@@ -1,0 +1,5 @@
+2023-04-02 22:11:12.016794 - Initialized conversion of CBT142
+2023-04-02 22:11:12.045396 - Received CBT.V504.FILE142.PDS from FILE142.XMI 
+2023-04-02 22:11:12.047982 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE142.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:11:12.048997 - Found @FILE142.txt (text/plain) in CBT.V504.FILE142.PDS, moved to PDS/@FILE142
+2023-04-02 22:11:12.049946 - Found SIMTERM.jcl (text/plain) in CBT.V504.FILE142.PDS, moved to PDS/SIMTERM
